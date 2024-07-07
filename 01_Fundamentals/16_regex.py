@@ -1,6 +1,8 @@
 # import re library
 import re
 
+# Comment for HW in casedtudy of DSA
+
 # Text coming from Python module __re__
 text = "This module provides regular expression matching operations similar to those found in Perl."
 
